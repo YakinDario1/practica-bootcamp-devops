@@ -1,2 +1,6 @@
 # practica-bootcamp-devops
-IV Edición Bootcamp DevOps by RoxsRoss
+
+[IV Edición Bootcamp DevOps by RoxsRoss](https://github.com/roxsross/bootcamp-devops-2023)
+
+Ejercicio:
+1. Ejercicio-1 Linux y Automatización
